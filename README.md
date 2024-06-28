@@ -1,4 +1,4 @@
-2048 project game on python.
+# 2048 project game on python.
 
 2048.py 
 - file for the game codes.
